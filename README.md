@@ -20,8 +20,10 @@ Organize quizzes into various categories and topics, enabling users to select th
 
 🔺 Multiple Question Types: 
 Support different types of questions, such as multiple-choice and true/false.
+
 🔺 Difficulty Levels:
 Provide different difficulty levels for the qui diestions.
+
 🔺Responsive Design:
 Ensures the quiz app works well on various devices, including smartphones, tablets, and desktops.
 
