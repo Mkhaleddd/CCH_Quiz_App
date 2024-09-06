@@ -27,4 +27,6 @@ Support for screen readers and keyboard navigation.
 
 ▪️Here’s the demo:https://mkhaleddd.github.io/CCH_Quiz_App/
 
-Excited to hear your thoughts and feedbac
+Excited to hear your thoughts and feedback!
+
+![quiz](https://github.com/user-attachments/assets/a6a106d4-c712-40db-ab09-c9d62ea64ca1)
